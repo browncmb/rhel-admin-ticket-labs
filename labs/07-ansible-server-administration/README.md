@@ -12,7 +12,6 @@ Use Ansible from a centralized control node to validate Linux managed-node conne
 * SSH key-based authentication
 * sudo-based privilege escalation
 * firewalld
-* Sanitized hostnames, IP addresses, usernames, inventory groups, and file paths
 
 ## Work Performed
 

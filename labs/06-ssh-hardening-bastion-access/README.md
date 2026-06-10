@@ -11,7 +11,6 @@ Harden SSH access across Linux servers by enforcing key-based administrative acc
 * firewalld
 * Bastion host access model
 * Administrative Linux user with sudo privileges
-* Sanitized hostnames, IP addresses, usernames, domains, and access paths
 
 ## Work Performed
 

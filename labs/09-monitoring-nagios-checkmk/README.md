@@ -13,7 +13,6 @@ Configure Linux monitoring access, deploy monitoring agents, onboard managed sys
 * NRPE and Nagios plugins
 * CheckMK agent
 * systemd-managed services
-* Sanitized hostnames, IP addresses, usernames, monitoring URLs, and service output
 
 ## Work Performed
 

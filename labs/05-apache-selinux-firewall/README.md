@@ -11,7 +11,6 @@ Configure Apache HTTP Server on a RHEL-based system, serve content on a nonstand
 * SELinux enforcing mode
 * firewalld
 * systemd-managed services
-* Sanitized hostnames, IP addresses, usernames, URLs, and service output
 
 ## Work Performed
 

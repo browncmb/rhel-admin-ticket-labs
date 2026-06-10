@@ -11,7 +11,6 @@ Configure and validate persistent NFS-backed storage for Linux clients, includin
 * Linux client systems
 * NFSv4 client mounts
 * systemd-managed mount handling
-* Sanitized hostnames, IP addresses, usernames, paths, and storage targets
 
 ## Work Performed
 

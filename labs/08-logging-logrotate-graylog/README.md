@@ -13,7 +13,6 @@ Configure centralized Linux log forwarding, validate log ingestion in Graylog, t
 * logrotate
 * systemd timers
 * firewalld
-* Sanitized hostnames, IP addresses, URLs, usernames, queries, and log contents
 
 ## Work Performed
 

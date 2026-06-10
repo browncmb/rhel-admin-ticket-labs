@@ -11,7 +11,6 @@ Prepare Linux backup storage using an NFS-backed repository, validate backup-age
 * Linux backup agent
 * systemd-managed services
 * NFS server and client utilities
-* Sanitized hostnames, IP addresses, usernames, backup paths, repository names, and vendor-specific output
 
 ## Work Performed
 
