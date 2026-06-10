@@ -26,7 +26,7 @@ Configure and validate persistent NFS-backed storage for Linux clients, includin
 * Created a shared directory for operational file storage.
 * Verified write access by creating and removing a test file.
 
-## Commands or Configuration
+## Commands and Configuration
 
 Install NFS client utilities:
 

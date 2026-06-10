@@ -26,7 +26,7 @@ Harden SSH access across Linux servers by enforcing key-based administrative acc
 * Confirmed that direct SSH access from non-approved sources was blocked.
 * Investigated user-reported SSH failures and identified the bastion-only access control as the expected cause.
 
-## Commands or Configuration
+## Commands and Configuration
 
 Generate an SSH key pair for an administrative user:
 

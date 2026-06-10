@@ -28,7 +28,7 @@ Use Ansible from a centralized control node to validate Linux managed-node conne
 * Automated firewalld changes to close unnecessary HTTP and HTTPS exposure.
 * Validated the firewall state after the playbook completed.
 
-## Commands or Configuration
+## Commands and Configuration
 
 Example sanitized inventory:
 
